@@ -1,3 +1,7 @@
+import myModule from './myModule.js';
+
+// Your code using myModule here
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
